@@ -1,6 +1,5 @@
 # PP - Predicting Different Progressive Levels of Alzheimer's Disease with MRI data
 
-![](pictures_report/01.jpg)
 ![](pictures_report/02.jpg)
 ![](pictures_report/03.jpg)
 ![](pictures_report/04.jpg)
